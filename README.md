@@ -1,1 +1,0 @@
-# Calc_for_KA
